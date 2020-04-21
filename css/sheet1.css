@@ -146,7 +146,7 @@ a{
     clear: both;
 }
 #about {
-    height: 400px;
+  
 }
 .cl{
     width: 50%;
@@ -199,6 +199,7 @@ img{
   margin: auto;
   width: 70%;
   border-radius: 50%;
+  float: right;
 }
 #contact {
     height: 100vh;
